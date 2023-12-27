@@ -1,0 +1,61 @@
+body {
+	
+	font-family: cursive;
+	font-size: 20px;
+	
+}
+
+header {
+    background-color: #B1B1B1;
+}
+
+nav {
+	
+	background color: blue;
+	
+}
+
+main {
+	
+	background-color: aqua;
+	font-size: 20px;
+	
+}
+
+a {
+    background-color: #C4C4C4;
+    color: black;
+    font-style: bold;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 37px;
+    text-transform: uppercase;
+}
+
+aside {
+    display: none;
+}
+
+.right {
+    background-color: #7E7E7E;
+}
+
+li {
+	
+	display: flex;
+	
+}
+
+h2 {
+    color: #2A007E;
+    font-size: 33px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 18px;
+    font-weight: normal;
+}
